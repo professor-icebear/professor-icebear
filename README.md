@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ CarbonTag as a SWE intern <br>🎓 I am studying CS @ King's College London<br>🤝 I’m looking for help with building cool ideas and apps<br>🌱 I’m currently learning ML(numpy, pandas, scikit), AWS and low level programming (C++)<br>💬 Ask me about football, movies, code or technology<br>⚡ Fun fact I can speak 4 languages
+🔭 I’m incoming @ Google as a STEP intern this summer working on a ML project on the Google Play team<br>💼 Interned previously @ CarbonTag, Headstarter AI and Citadel<br>🎓 I am studying CS @ King's College London<br>🤝 I’m looking for help with building cool ideas and apps<br>🌱 I’m currently learning ML(numpy, pandas, scikit), AWS and low level programming (C++)<br>💬 Ask me about football, movies, code or technology<br>⚡ Fun fact I can speak 4 languages
 
 
 ## 🌐 Socials:
